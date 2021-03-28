@@ -2,9 +2,9 @@ import ImageEditor from "@toast-ui/react-image-editor";
 import "tui-image-editor/dist/tui-image-editor.css";
 import React,{useState} from "react"
 import axios from "axios"
-import config from "../../config"
 import userActions from "../_actions/userActions";
 import { Button } from "@material-ui/core";
+import config from "../../config"
 
  const theme = {
     // "common.bi.image":
