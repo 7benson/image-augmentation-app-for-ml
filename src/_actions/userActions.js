@@ -3,6 +3,8 @@ import config from "../../config"
 const userActions={
     // uploadFile
 }
+export default userActions
+
 // async function uploadFile({data}){
 //     const fileData =data.fileData
 //     var class = data.class
@@ -20,4 +22,3 @@ const userActions={
 //     })
 //     .catch(err=>{ localStorage.clear();})
 // }
-export default userActions
