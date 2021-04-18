@@ -1,4 +1,5 @@
 const apiUrl=`http://127.0.0.1:5000`
+
 export const modelClasses={
     0:'Speed limit (20km/h)',
     1:'Speed limit (30km/h)',
